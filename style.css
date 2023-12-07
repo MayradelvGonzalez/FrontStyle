@@ -11,14 +11,19 @@
     justify-content: space-around;
     height: 20em;
     margin: 3em;
+   border: 1em solid white;
+
 }
 #contenido{
     text-align: center;
-   
 }
 
 button{
     cursor: pointer;
     margin: 3em;
     padding: 1em;
+}
+
+button:hover {
+    background-color: #009966;
 }

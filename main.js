@@ -10,7 +10,7 @@ window.addEventListener("load", function () {
    
     contenido.style.background = '#009966';
     let border = contenido.style.borderStyle = 'green 1em solid';
-    let border2 = contenido.style.borderStyle = 'yellow 0.6em solid';
+    let border2 = contenido.style.borderStyle = 'yellow 1em solid';
     function switchColor() {
         if (color == "a") {
             contenido.style.background = color2;
