@@ -16,3 +16,9 @@
     text-align: center;
    
 }
+
+button{
+    cursor: pointer;
+    margin: 3em;
+    padding: 1em;
+}
