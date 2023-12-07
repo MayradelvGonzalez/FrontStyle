@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    box-sizing: 0;
+    margin: 0;
+}
+
+#info{
+    border: 0.1em solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 20em;
+    margin: 3em;
+}
+#contenido{
+    text-align: center;
+    
+}
